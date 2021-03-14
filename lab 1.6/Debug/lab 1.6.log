@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Time.cpp
+  Создание кода...
+D:\навчання\repos\lab 1.6\lab 1.6\Time.cpp(151): warning C4715: Time::Triad::s2: значение возвращается не при всех путях выполнения
+  lab 1.6.vcxproj -> D:\навчання\repos\lab 1.6\Debug\lab 1.6.exe

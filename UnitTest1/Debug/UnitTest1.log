@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\навчання\repos\lab 1.6\UnitTest1\UnitTest1.cpp(18,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\навчання\repos\lab 1.6\lab 1.6\Time.cpp(151): warning C4715: Time::Triad::s2: значение возвращается не при всех путях выполнения
+  UnitTest1.vcxproj -> D:\навчання\repos\lab 1.6\Debug\UnitTest1.dll
